@@ -4,6 +4,14 @@
 
 ### Sample Portfolio
 
+## Table of content
+
+- [Description](#description)
+- [Installation Requirement](#Installation)
+- [Technology Used](#technology-used)
+- [Licence](#licence)
+
+
 ## Description
 
 <p> It is a project Website to create a portfolio </p>
