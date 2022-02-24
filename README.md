@@ -1,3 +1,6 @@
 # portfolio
 
-## Creating a portfolio
+##### By Joan Deng
+### Sample Portfolio
+
+## Table of Content
