@@ -3,3 +3,18 @@
     width: 80%;
     background-color: yellow;
 }
+body{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: green;
+    justify-content: center;
+}
+.maindiv{
+    width: 80%;
+    height: 300px;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    
+}
