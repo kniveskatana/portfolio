@@ -18,3 +18,23 @@ body{
     justify-content: space-evenly;
     
 }
+.div1{
+    height: 250px;
+    width: 40%;
+    background-color: aqua;
+}
+.div2{
+    height: 250px;
+    width: 40%;
+    background-color: bisque;
+    background-image: url("../images/testimg.jpg");
+    border: 1px;
+    border-radius: 20px;
+    box-shadow: 5px 5px 2px gray;
+
+}
+.div3{
+    height: 300px;
+    width: 80%;
+    background-color: blueviolet;
+}
