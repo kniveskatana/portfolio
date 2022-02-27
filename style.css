@@ -3,7 +3,7 @@ body{
     flex-direction: column;
     align-items: center;
     justify-content: center;
-    background-image: url("../images/Blurred.jpg");
+    background-image: url("https://github.com/kniveskatana/portfolio/blob/master/images/Blurred.jpg?raw=true");
     background-size: cover;
 }
 .nav{
@@ -61,7 +61,7 @@ body{
     height: 300px;
     width: 40%;
     background-color: bisque;
-    background-image: url("../images/pic.jpg");
+    background-image: url("https://github.com/kniveskatana/portfolio/blob/master/images/pic.jpg?raw=true");
     background-size: cover;
     background-repeat: no-repeat;
     border: 1px;
@@ -79,7 +79,7 @@ body{
 .picture{
     height: 450px;
     width: 48%;
-    background-image: url("../images/football.jpg");
+    background-image: url("https://github.com/kniveskatana/portfolio/blob/master/images/football.jpg?raw=true");
     background-size: contain;
     border: 3px;
     border-radius: 20px;
@@ -122,7 +122,7 @@ body{
 .topics{
     height: 180px;
     width: 40%;
-    background-image: url("../images/soccer.jpg");
+    background-image: url("https://github.com/kniveskatana/portfolio/blob/master/images/soccer.jpg?raw=true");
     background-size: cover;
     border-radius: 10px;
     background-position: center;
@@ -139,14 +139,14 @@ body{
 .topicss{
     height: 180px;
     width: 40%;
-    background-image: url("../images/swimming.jpeg");
+    background-image: url("https://github.com/kniveskatana/portfolio/blob/master/images/swimming.jpeg?raw=true");
     border-radius: 10px;
     background-size: cover;
 }
 .Ruji{
     height: 180px;
     width: 40%;
-    background-image: url("../images/ruji.jpeg");
+    background-image: url("https://github.com/kniveskatana/portfolio/blob/master/images/ruji.jpeg?raw=true");
     border-radius: 10px;
     background-size: cover;
     background-position: center;
