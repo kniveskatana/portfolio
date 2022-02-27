@@ -60,7 +60,8 @@ body{
     height: 300px;
     width: 40%;
     background-color: bisque;
-    background-image: url("../images/testimg.jpg");
+    background-image: url("../images/pic.jpg");
+    background-size: cover;
     border: 1px;
     border-radius: 20px;
     box-shadow: 5px 5px 2px gray;
@@ -144,4 +145,23 @@ body{
     background-image: url("../images/sports3.jpg");
     border-radius: 10px;
     background-size: cover;
+}
+.Footer{
+    width: 50%;
+    height: 90px;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    
+}
+.icons{
+    height: 90px;
+    width:50%;
+    
+}
+.icons p{
+    margin-top: -20px;
+}
+span a{
+    text-decoration: none;
 }
