@@ -25,6 +25,9 @@
 ## Support and Contact Details
 <p> If you encounter any problems running this Website, please reach out to me via email @joan.deng@student.moringaschool.com .</p>
 
+## live link
+* [my portfolio](https://kniveskatana.github.io/portfolio/)
+
 ## Copyright and Licence
 
 MIT License
